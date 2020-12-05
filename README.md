@@ -1,0 +1,2 @@
+# smartcookie
+Stepping into Python!
